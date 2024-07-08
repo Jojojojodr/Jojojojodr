@@ -1,6 +1,6 @@
 # Hello :D
 
-Currently I'm finnishing of my school<br>
+Currently I'm finnishing my school<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordy-de-ron/) 
