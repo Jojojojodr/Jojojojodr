@@ -1,4 +1,4 @@
-# Hello, I'm Jordy :D
+# Hello :D
 
 Currently I'm finnishing of my school<br>
 
